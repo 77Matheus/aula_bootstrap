@@ -1,0 +1,39 @@
+
+
+.navbar-brand {
+    background-color:#FF4000;
+    padding-top: 30px;
+    
+}
+
+.quem-somos{
+    background-color: black;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.collapse{
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.nav-item{
+   font-family: arial white; 
+}
+
+h3{
+    font-family: arial;
+    color: white;
+}
+
+.nav-link{
+    font-size: 20px;
+}
+
+h2{
+    font-family: Arial;
+}
